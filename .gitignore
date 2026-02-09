@@ -1,0 +1,13 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+~$*
+
+# Agent/IDE config
+.agent/
+.gemini/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
